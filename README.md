@@ -25,7 +25,7 @@ Virtuaalikoneen speksit:
 2 x CPU
 4 Gb RAM
 50 Gb HDD
-Generation 2 (Hyper-V pyytää määrittelemään
+Generation 2 (Hyper-V pyytää määrittelemään)
 
 # Lisenssit
 Aloitin hommat 25.01.2023 klo 15.00 käynnistämällä virtuaalikoneeni ja kirjautumalla sinne sisään.
