@@ -10,7 +10,7 @@ Aiheesta tuli ensin lukea kahdesta eri linkistä ja tiivistää asia ranskalaisi
 - Ilmainen ohjelmisto voi olla kaupallinen
 - Copyleft suojaa lisenssin väärinkäytökseltä
 - Rajoituksia voi tulla valtiollisella tasolla
-- Tietoa lisensseistä ja lisensoinnista voi pyytää osoitteesta licensing@gnu.org
+- Tietoa lisensseistä ja lisensoinnista voi pyytää osoitteesta: licensing@gnu.org
 - Lisenssien lisäksi myös ilmaiseen ohjelmistoon tulee olla tarjolla ilmainen manuaali
 
 # Ympäristö
