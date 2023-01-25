@@ -33,4 +33,4 @@ Tehtävänä oli tarkastella viime viikolla testattuja vapaavalintaisten ohjelmi
 Löysin lisenssitiedot kansiosta /usr/share/doc$.
 
 Terminator:
-Avasin Terminatorin copyright tiedoston kansiossa /usr/share/doc$ käyttämällä komentoa  micro copyright.
+Avasin Terminatorin copyright tiedoston kansiossa /usr/share/doc$ käyttämällä komentoa #	micro copyright
