@@ -90,6 +90,7 @@ Grep komentoa varten testailin etsiä ```/usr/share/doc/gnome-terminal``` kansio
 
 Tuloksena oli tämä: </br>
 ![Kuva3](https://user-images.githubusercontent.com/122887740/214582626-a9b6d3f4-c94e-4534-a218-5a6a0469c664.png)</br>
+Komento etsi rivit, joissa grep-komentoon asetetut ehdot täyttyivät.
 
 ## Pipe käyttö
 Tehtävää varten hakeuduin kansioon ```/home/mattis``` ja siellä testailin aiemmin oppitunnilla tehtyyn testi.md tiedostoon seuraavanlaisia komentoja:
