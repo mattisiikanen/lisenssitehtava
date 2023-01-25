@@ -106,10 +106,16 @@ Tehtävän harjoituksiin meni n.1h ja lopettelin ne klo 16.01 aikoihin. Tehtäv�
 
 
 # Lähteet
+Free Software Foundation, What is Free Software?:
+https://www.gnu.org/philosophy/free-sw.html
+
+Mikko Välimäki, The Rise of Open Source Licensing,
+http://lib.tkk.fi/Diss/2005/isbn9529187793/isbn9529187793.pdf
+
 Stack Exchange, How do I find out the license for each of my installed applications/packages?:
 https://unix.stackexchange.com/questions/264055/how-do-i-find-out-the-license-for-each-of-my-installed-applications-packages
 
-GNU Operating System, GNU General Public License, version 2:
+Free Software Foundation, GNU General Public License, version 2:
 https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 Choose a license, BSD 2-Clause “Simplified” License:
@@ -121,13 +127,13 @@ https://www.idmanagement.gov/license/
 Wikipedia, SIL Open Font License:
 https://en.wikipedia.org/wiki/SIL_Open_Font_License
 
-GNU Operating System, GNU General Public License:
+Free Software Foundation, GNU General Public License:
 https://www.gnu.org/licenses/gpl-3.0.html
 
 SPDX, GNU Free Documentation License v1.3:
 https://spdx.org/licenses/GFDL-1.3.html
 
-GNU Operating System, GNU LESSER GENERAL PUBLIC LICENSE:
+Free Software Foundation, GNU LESSER GENERAL PUBLIC LICENSE:
 https://www.gnu.org/licenses/lgpl-3.0.html
 
 Vivek Gite, Regular expressions in grep ( regex ) with examples:
