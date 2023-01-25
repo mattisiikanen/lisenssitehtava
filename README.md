@@ -86,7 +86,7 @@ Ohjelman CopyRightista löytyi jälleen useampaa eri lisenssiä: GPL-3+, GFDL-NI
 Tämän ohjelman lisenssien kanssa ei ollut epäselvyyksiä.
 
 ## Grep komento (Regexp)
-Grep komentoa varten testailin etsiä ```/usr/share/doc/gnome-terminal``` kansion copyright tiedostosta hakusanoja license ja copyright käyttämällä komentoa: ```grep -E -i '^(license|copyright)' copyright```
+Grep komentoa varten testailin etsiä ```/usr/share/doc/gnome-terminal``` kansion copyright-tiedostosta hakusanoja license ja copyright käyttämällä komentoa: ```grep -E -i '^(license|copyright)' copyright```
 
 Tuloksena oli tämä: </br>
 ![Kuva3](https://user-images.githubusercontent.com/122887740/214582626-a9b6d3f4-c94e-4534-a218-5a6a0469c664.png)</br>
