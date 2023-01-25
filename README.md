@@ -96,7 +96,7 @@ Komento etsi rivit, joissa grep-komentoon asetetut ehdot täyttyivät.
 Tehtävää varten hakeuduin kansioon ```/home/mattis``` ja siellä testailin aiemmin oppitunnilla tehtyyn testi.md tiedostoon seuraavanlaisia komentoja:
 ```cat testi.md``` ja heti perään ```cat testi.md | sort```, tulokset olivat seuraavanlaiset:</br>
 ![Kuva4](https://user-images.githubusercontent.com/122887740/214584316-6f682e54-b7d7-4fb4-a7b1-e93c212f8e31.png)</br>
-
+Ensimmäinen komento listaa tiedoston sisällön ja pipellä varustettu vielä lajittelee tiedon aakkosjärjestykseen.
 ## Regex Crossword
 Kävin Regex Crossword tutorialin läpi ja alla kuva yhdestä oikeasta vastauksesta: </br>
 ![Kuva5](https://user-images.githubusercontent.com/122887740/214585260-cbf4e53e-9e69-4a09-a5a0-8ce7b2469024.png)</br>
