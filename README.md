@@ -33,4 +33,9 @@ Tehtävänä oli tarkastella viime viikolla testattuja vapaavalintaisten ohjelmi
 Löysin lisenssitiedot kansiosta /usr/share/doc$.
 
 Terminator:
-Avasin Terminatorin copyright tiedoston kansiossa /usr/share/doc$ käyttämällä komentoa #	micro copyright
+Avasin Terminatorin copyright tiedoston kansiossa /usr/share/doc$ käyttämällä komentoa #    micro copyright
+
+
+# Lähteet
+How do I find out the license for each of my installed applications/packages?
+https://unix.stackexchange.com/questions/264055/how-do-i-find-out-the-license-for-each-of-my-installed-applications-packages
