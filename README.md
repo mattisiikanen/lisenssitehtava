@@ -36,7 +36,7 @@ Löysin lisenssitiedot kansiosta ```/usr/share/doc$```.
 Avasin Terminatorin copyright tiedoston kansiossa ```/usr/share/doc/terminator$``` käyttämällä komentoa: ```micro copyright``` </br>
 ![Kuva1](https://user-images.githubusercontent.com/122887740/214572201-e7352685-b0c6-42f0-8c6e-5322392f11ae.png)</br>
 Tietojen mukaan Terminator käyttää GPL-2.0 lisenssiä, eli GNU General Public License, version 2, kyseessä on ilmainen lisenssi.
-Lisenssin mukaan käyttäjän tulee hyväksyä lisenssi, mikäli hän haluaa tehdä muutoksia, jaella tai kopioida sitä.
+Lisenssin mukaan käyttäjän tulee hyväksyä lisenssi, mikäli hän haluaa tehdä muutoksia, jaella tai kopioida sitä. </br>
 Tarkastelin kyseisen lisenssin tietoja sivulta: https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 Tämän ohjelman lisenssien kanssa ei ollut epäselvyyksiä.
