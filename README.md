@@ -100,6 +100,8 @@ Tehtävää varten hakeuduin kansioon ```/home/mattis``` ja siellä testailin ai
 Kävin Regex Crossword tutorialin läpi ja alla kuva yhdestä oikeasta vastauksesta: </br>
 ![Kuva5](https://user-images.githubusercontent.com/122887740/214585260-cbf4e53e-9e69-4a09-a5a0-8ce7b2469024.png)</br>
 
+## Lopetus
+Tehtävän harjoituksiin meni n.1h ja lopettelin ne klo 16.01 aikoihin. Tehtävät olivat opettavaisia lisenssien ja Grepin käytön suhteen. Pipen käyttö on minulle entuudestaan tuttua PowerShellin kautta, joten sen logiikka oli jo mielessä ennen harjoitteita.
 
 
 # Lähteet
