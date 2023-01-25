@@ -1,6 +1,6 @@
 # Lisenssitehtävä
 Lukuläksy:</br>
-Aiheesta tuli ensin lukea kahdesta eri linkistä ja tiivistää asia ranskalaisin viivoin.
+Aiheesta tuli ensin lukea kahdesta eri linkistä (https://www.gnu.org/philosophy/free-sw.html & http://lib.tkk.fi/Diss/2005/isbn9529187793/isbn9529187793.pdf) ja tiivistää asia ranskalaisin viivoin.
 - Ilmaisesta ohjelmistosta voidaan myydä kopioita
 - Neljä tärkeintä vapautta:
 	- Ohjelman ajon vapaus
